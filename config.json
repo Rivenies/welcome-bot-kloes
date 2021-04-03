@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "'HERAKLES 💙 Herkales",
+        "GUILD_ID": "800122726911442965",
+        "VOICE_CHANNEL": "800423419770306611",
+        "MIN_STAFF_ROLE": "800423290933870612"
+    },
+    "FILES": {
+        "WELCOME": "ses/welcome.mp3",
+        "STAFF": "ses/yetkiliodaya.mp3"
+    },
+    "TOKEN": ""
+}
